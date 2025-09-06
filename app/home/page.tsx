@@ -498,36 +498,7 @@ export default function HomePage() {
       alert("Please login to play games")
       return
     }
-
-    try {
-      const params = new URLSearchParams({
-        username: userCredentials.username,
-        password: userCredentials.password,
-        type: "game",
-        provider_code: "GE",
-        gameid: "0",
-        lang: "en",
-        html5: "true",
-      })
-
-      console.log("[v0] Launching GE game with params:", params.toString())
-
-      const response = await fetch(`/api/auth/launch-game?${params.toString()}`)
-      const data = await response.json()
-
-      console.log("[v0] Launch game response:", data)
-
-      if (data.success && data.game_url) {
-        // Open game in new window/tab
-        window.open(data.game_url, "_blank", "width=1200,height=800")
-      } else {
-        console.error("[v0] Failed to launch game:", data.message)
-        alert("Failed to launch game: " + (data.message || "Unknown error"))
-      }
-    } catch (error) {
-      console.error("[v0] Error launching game:", error)
-      alert("Error launching game. Please try again.")
-    }
+    launchGame( "0", "LC","Live Casino" ,"GE" )
   }
 
   return (
