@@ -6,7 +6,7 @@ import ViewportSetter from "@/components/viewport-setter"
 export const metadata: Metadata = {
   title: "AURA7 - Game Login",
   description: "Enter the adventure in AURA7",
-    generator: 'v0.app'
+  generator: "v0.app",
 }
 
 export default function RootLayout({
@@ -19,7 +19,10 @@ export default function RootLayout({
       <head>
         <ViewportSetter />
       </head>
-      <body className="font-sans">{children}</body>
+      <body className="font-sans">
+        {children}
+
+      </body>
     </html>
   )
 }

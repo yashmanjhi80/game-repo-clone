@@ -4,7 +4,7 @@
 export const APP_CONFIG = {
   // API Configuration
   API: {
-    BASE_URL: "https://gam-63b1249c8e8b.herokuapp.com",
+    BASE_URL: "https://game.zyronetworks.shop",
     ENDPOINTS: {
       LOGIN: "/login",
       REGISTER: "/register",
