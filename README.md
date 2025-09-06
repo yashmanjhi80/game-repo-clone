@@ -1,9 +1,9 @@
-# Game repo clone
+# gamelogin1
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/yashenterprisesgunamp-4706s-projects/v0-game-repo-clone)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/adcrVpLF4sk)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/yashmanjhi80-7036s-projects/v0-gamelogin1)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/YQmxWi6Zv8N)
 
 ## Overview
 
@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/yashenterprisesgunamp-4706s-projects/v0-game-repo-clone](https://vercel.com/yashenterprisesgunamp-4706s-projects/v0-game-repo-clone)**
+**[https://vercel.com/yashmanjhi80-7036s-projects/v0-gamelogin1](https://vercel.com/yashmanjhi80-7036s-projects/v0-gamelogin1)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.app/chat/projects/adcrVpLF4sk](https://v0.app/chat/projects/adcrVpLF4sk)**
+**[https://v0.app/chat/projects/YQmxWi6Zv8N](https://v0.app/chat/projects/YQmxWi6Zv8N)**
 
 ## How It Works
 
